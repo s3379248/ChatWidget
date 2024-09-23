@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD030 -->
 
 # This repo wil be deleted on 2024-10-01
+Please do not use it any more. Use the original
 
 # Flowise Embed
 
