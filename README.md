@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD030 -->
 
+# This repo wil be deleted on 2024-10-01
+
 # Flowise Embed
 
 Javascript library to display flowise chatbot on your website
